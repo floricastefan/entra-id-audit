@@ -1,0 +1,15 @@
+# Secrets & API keys
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE settings (PyCharm)
+.idea/
+
+# macOS system files
+.DS_Store
